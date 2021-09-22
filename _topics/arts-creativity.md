@@ -19,6 +19,8 @@ links:
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend efficitur ex
     img: test-image-2.png
     url:  https\://google.com 
+featured: true
+course_data: job_skills
 ---
 ## Facilitator's Prep
 ### Organizations’ Strategies for Action: 
